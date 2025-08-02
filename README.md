@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I'm Sanju
 
-<!--
-**sanjusan547/sanjusan547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python & Django Developer passionate about building scalable web applications and APIs. I enjoy working on full-stack projects using Django REST Framework, React, and modern technologies.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 Tech Stack
+
+Backend: Django, Django REST Framework, Python, JWT
+
+Frontend: React, HTML, CSS, JavaScript
+
+Database: PostgreSQL
+
+Tools: Postman, Git & GitHub
+
+
+
+---
+
+🌟 What I Do
+
+🔹 Build secure and scalable REST APIs
+
+🔹 Develop full-stack web apps with React & Django
+
+🔹 Work with authentication systems (JWT, OAuth)
+
+🔹 Write clean, maintainable code & follow best practices
